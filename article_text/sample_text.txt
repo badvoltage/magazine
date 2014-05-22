@@ -1,0 +1,24 @@
+Sample Text
+By:Jonathan L. Meek
+your email at gmail dot com
+
+In looking over the project, I realized that guidelines would be helpful so 
+here's a sample article. To start off, place your article in the .txt file 
+format. The rationale is that just about every OS can open and edit .txt 
+files.
+
+===========
+Bylines 
+===========
+Looking at the top of the page, it lists the byline like this:
+<Author Name>
+<AuthorEmail> at <emailprovider> dot <domain_name>
+
+This should keep you, the author from getting spammed and allows to claim your 
+stuff.
+
+============
+Subheadings
+============
+As you have probably noticed, subheadings are done by Surrounding the text with 
+equal signs(====). This helps us make things clear on a subheading
