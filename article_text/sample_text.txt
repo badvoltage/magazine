@@ -1,4 +1,4 @@
-Sample Text
+Sample Article
 By:Jonathan L. Meek
 your email at gmail dot com
 
@@ -15,10 +15,43 @@ Looking at the top of the page, it lists the byline like this:
 <AuthorEmail> at <emailprovider> dot <domain_name>
 
 This should keep you, the author from getting spammed and allows to claim your 
-stuff.
+stuff. Also the email address is optional if you don't want to be bothered by 
+feedback.
 
 ============
 Subheadings
 ============
 As you have probably noticed, subheadings are done by Surrounding the text with 
-equal signs(====). This helps us make things clear on a subheading
+equal signs(====). This helps make it easier to identify subheadings for the 
+articles
+
+=========
+Pictures
+=========
+
+If you want to have pictures in the article, please use .jpg or .png for the 
+time being. These are decently safe formats. As far as pixel size goes 
+be reasonable. Think of picture resolution that 
+you would use for a website. Also, community guidelines apply 
+here as well and stick to pictures that you have the permissions for. If you 
+are uploading the asset to github, please place it in the artwork folder.
+
+Below is an example for marking a picture insert for the article:
+
+^^^^^^^^^^^^^^^
+<location in artwork folder>
+<any caption for the picture>
+^^^^^^^^^^^^^^^
+
+========
+Misc
+========
+In closing, the hope is to provide an easy to use format guide for submission 
+of articles and to keep the article text separate from the layout and to keep 
+it transparent for all. Currently, the plan is to use Scribus for the magazine 
+layout but they may change over time.
+
+Personally, I am excited by the possiblites for the magazine and want to be as 
+inclusive as possible. If you have any questions or concerns, feel free to 
+email at jonathan <dot> l <dot> meek <at> gmail <dot> com 
+
