@@ -1,0 +1,16 @@
+A few days ago, the charging port on my HTC One failed. The headphone port has been dodgy for ages so, to get both of them fixed, I've sent my gateway to life off to HTC to be repaired. During this time, my very generous network carrier offered my a replacement phone for the very generous, non-refundable sum of £40. Needless to say, I kindly declined; which left me with a dilemma - what to buy?
+
+After much pondering and eBay surfing, I put a bid on a second hand ZTE One with Firefox OS. This was in perfect condition and the winning bid was a mere £25. First off, I knew what to expect. I knew that this phone has been built for 'developing markets' and 'first time smartphone users', so I will try and separate the hardware from the OS where I can.
+
+First impression of the phone is that, for its price, it's very solid. I love the orange painted, rubber finish. It feels like it will stand up to years of hardship without showing any signs of age. Clipping the SIM and microSD card in was quite counter-intuitive, they clip in different ways which is a mild annoyance. After getting that done and the cover clipped back into place, it's time to turn on and look at Firefox OS.
+
+Originally I was running 1.1, which came as default, but quickly upgraded to 1.2. The process was very easy via the guide on Mozilla’s website, using the Andriod SDK tool set.
+
+As the phone boots, you get a cute animation of the fox with its flaming tail. After a few seconds, you get a very Android 1.0 looking set-up menu asking for your preferred language. As is always the way, English (US) is selected by default. For us Brits, that is very infuriating, but hey-ho.
+
+Finally to the home screen. You get the usual goodie bag of default apps S/MMS, Music, Gallery, Videos, Clock, Email, Contacts, Camera, Marketplace and, of course, Firefox. All of these applications, except maybe Firefox itself, feel quite unpolished but are very usable and pretty stable. There is good support for importing from Google, including contacts and calendar which is a God send if coming from Android. As expected, the Marketplace is quite bare, but there are a few big hitters, such as Twitter and Facebook. I've not created any apps yet but I suspect the HTML 5 layout and JavaScript logic combination will make writing them a breeze.
+
+Luckily, a good friend of mine has the Android version of this phone, so was easy to draw comparisons in OS only. The battery life is not as expect. I thought that in the absence of having to run a JVM, this would be greatly improved (like we saw with Maemo etc. phones). I also thought that everything would be a bit smoother. Again also wrong.
+
+Then I thought for a bit, if Mozilla have created an OS that already matches Android (in those respects), without the financial drive that was put behind Android, then we could soon
+be on to a great platform.
