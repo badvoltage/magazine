@@ -1,11 +1,13 @@
 Photo Credits
 
-Front Page: 
+Front Page Cover(): 
 	Flickr User: 月明 端木 
 	Flickr Useraddress: https://www.flickr.com/photos/18600003544/
 	Flickr photo location: https://www.flickr.com/photos/85968937@N08/12565024483/lightbox/
 	License: Creative Creations Attribution-ShareAlike 2.0 Generic
         https://creativecommons.org/licenses/by-sa/2.0/
 
-
-
+Hello World Article(): 
+	Screenshot done by: Jonathan L. Meek 
+	License: Creative Creations Attribution-ShareAlike 2.0 Generic 
+	https://creativecommons.org/licenses/by-sa/2.0/

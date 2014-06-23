@@ -1,0 +1,43 @@
+Getting to Hello World: Setup for Firefox OS
+by: Jonathan L. Meek
+jonathan dot l dot meek at gmail dot com
+
+
+
+Introduction
+=============
+--Start from searching for my starting point to testing on Firefox OS simluator: roughly ~25-30 minutes 
+
+Setup
+==============
+--Finding the dev site was not immediately clear from the main site
+	--Took a few hops to get to a gitHub repo for starter
+		--But no instructions in the repo? 
+			--You have to go back to the QuickStart
+
+Getting to Hello World
+=====================
+--QuickStart is easy to follow and explains the code extremely well, even without digging into the code
+
+
+Testing the App
+=================
+--Able to test with simply just opening up the index.html file
+
+--Testing with the simluator 
+	--Install was rather painless (took some time to download but could be my home network)
+	--QuickStart instructions were spot on
+
+--"That's it for now. Our quickstart is obviously a gross oversimplification of all the things involved in making a great app, but we've deliberately kept it this way to effectively highlight all the new things you need to know. For more information on different aspects of app design and development and Firefox OS, consult the below resources."
+	--What a way to keep people involved 
+		--An acknowledgement that this is a gross oversimplication
+		--Points me to more documentation in what they are looking for in an application
+
+
+Bad Voltage Verdict 
+===================
+
+--Has great potential for new people but there's needs to be a faster way to get to the quickstart from the start page 
+--Minor thing was the fact that there were no instructions in the repo but then again, there's a link pointing back to the instructions so its good 
+--Painless simluator install and testing 
+
