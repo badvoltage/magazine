@@ -83,7 +83,7 @@ around in a server.
 So all in all if you on the look out for a fast PHP framework that is feature
 rich Phalcon may well be worth investing some time into.
 
-Finally I must mention I will make is that the main author does do Google 
-Hangouts from time to time.  If you do get into Phalcon I'd encourage you
-to watch them and participate if you feel so inclined.  This is a person making
-the effort to reach out to the community and that should always be encouraged.
+Finally I must mention that the main author does do Google Hangouts from time to
+time.  If you do get into Phalcon I'd encourage you to watch them and
+participate if you feel so inclined.  This is a person making the effort to 
+reach out to the community and that should always be encouraged.
