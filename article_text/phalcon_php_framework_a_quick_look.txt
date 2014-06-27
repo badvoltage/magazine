@@ -1,0 +1,89 @@
+Phalcon PHP Framework: A Quick Look
+By:Aaron Singline
+aaron.singline@otago.ac.nz
+
+=============
+Introduction
+=============
+PHP frameworks abound and usually there is nothing special about them.  At the
+moment the flavour of the month seems to be Laravel but I recently got to play
+with a new framework called Phalcon (phalconphp.com).  It's fast and easy to get
+off the ground.  Did I mention it is fast (we'll get to that later).  Currently
+as of writing the stable release is 1.3.2 but it is still very actively being
+developed.
+
+===========
+The Basics
+===========
+
+Phalcon is a MVC framework much in the same line as Laravel.  It has some
+striking similarities mostly through following best practices.
+
+As you would expect it does a lot of heavy lifting for you and lets you just get
+on with coding.  Of course with the heavy lifing comes the ability to extend the
+prebuilt classes and tweak the functionality just how you'd like.
+
+==================
+Under the Surface
+==================
+Now comes the fun bit and I've held it off the secret to this framewor more than
+long enough.  Phalcon is a C library that you install into PHP as an extension.
+"Say what?" I hear you say.  Yes that is right it installs as an extension and
+is a compiled library.
+
+"So what does that mean?" I also hear you say.  It means that it is quick, very
+quick.  Being compiled means the framework is working at a lower level than just
+native PHP.
+
+However it also means some slightly trickier installation. You don't just
+download an archive file and extract it to a folder.  No some most cases you
+compile it on your machine and quite frankly that would have scared me away if
+the instructions weren't so good. Also, by the time I got to the part about
+having to compile, I was already intrigued enough to continue.
+
+After getting over that the next problem I had was that my IDE of choice,
+Komodo Edit, wasn't able to use the extension to have all those lovely
+autocompletes.  However that was also solved by getting the Developer Tools
+(phalconphp.com/en/download/tools) and pointing it at the folder that is
+included.
+
+============
+Handy Tools
+============
+For a start the documentation is simply brilliant.  It is nicely laid out and
+clear.  This was what really got me interested in the first place.  If a project
+has good documentation it shows that people really care about it.  So much so
+that they are prepared to do good documentation in this case.  I especially
+enjoyed the examples as, personally, I like to learn by seeing code.
+
+As I mentioned the Developer Tools is also available.  It has some interesting
+scaffolding tools to get you started.  However once you've used the scaffolding
+you'll probably find that you will need to change quite a bit to get the code
+that satisfies your requirements.
+
+It does a good job getting you started though and, as it is pointed out, you 
+will probably be making most things by hand once you have the hang of it.
+
+===========
+The Future
+===========
+As previously mentioned Phalcon is still under active development.  Beta
+releases of version 2.0 has been released along with improvements it also
+introduces a new language called Zephir (zephir-lang.com).  Zephir's goal is to
+be a compliment to C and PHP.
+
+===========
+Conclusion
+===========
+Good: Great documentation.  Easy to get a page up and running quickly.
+
+The Bad: Hard to install for novices or those not too familiar with digging
+around in a server.
+
+So all in all if you on the look out for a fast PHP framework that is feature
+rich Phalcon may well be worth investing some time into.
+
+Finally I must mention that the main author does do Google Hangouts from time to
+time.  If you do get into Phalcon I'd encourage you to watch them and
+participate if you feel so inclined.  This is a person making the effort to 
+reach out to the community and that should always be encouraged.
